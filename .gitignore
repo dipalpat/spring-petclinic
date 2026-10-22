@@ -46,3 +46,6 @@ out/
 _site/
 *.css
 !petclinic.css
+.envrc
+.advisor/patch-upgrade-report.json
+.advisor/errors/20261022-150757536.log
