@@ -181,7 +181,8 @@
     <dependency>
       <groupId>io.pivotal.cfenv</groupId>
       <artifactId>java-cfenv-boot</artifactId>
-      <version>4.0.2</version> <!-- check for latest -->    
+      <version>4.0.2</version>  
+    </dependency> 
   </dependencies>
 
   <build>
