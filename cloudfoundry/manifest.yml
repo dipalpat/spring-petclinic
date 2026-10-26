@@ -1,3 +1,8 @@
 ---
 applications:
 - name: spring-petclinic
+  path: ../target/spring-petclinic-4.0.0-SNAPSHOT.jar
+  random-route: true
+  env:
+    JBP_CONFIG_OPEN_JDK_JRE: '{ jre: { version: 21.+ } }'
+    SPRING_PROFILES_ACTIVE: h2  

@@ -178,6 +178,10 @@
       <artifactId>testcontainers-mysql</artifactId>
       <scope>test</scope>
     </dependency>
+    <dependency>
+      <groupId>io.pivotal.cfenv</groupId>
+      <artifactId>java-cfenv-boot</artifactId>
+      <version>4.0.2</version> <!-- check for latest -->    
   </dependencies>
 
   <build>
