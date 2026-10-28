@@ -1,6 +1,6 @@
 ---
 applications:
-- name: spring-petclinic
+- name: spring-petclinic-41
   path: target/spring-petclinic-4.0.0-SNAPSHOT.jar
   buildpacks:
     - ms_java_offline
